@@ -16,5 +16,3 @@ I can be used on PC or on a smartphone.
 
 With best regards,<br />
 Tim
-
-https://github.com/TimKroeger13/GeoinformaticsWorksheets
