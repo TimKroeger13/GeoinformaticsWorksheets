@@ -10,7 +10,7 @@ All my answer where written down in a very short time (120 minutes) and are ther
 Hope it could still help some of you learn.
 
 I also add the an ANKI File called "ANKI_Geoinformatics.apkg". <br />
-In there are 122 Index cards for learning. To use them the ANKI application can be used: <br />
+In there are 122 Index cards for learning. To use them the ANKI application must be used: <br />
 https://apps.ankiweb.net/  <br />
 I can be used on PC or on a smartphone.
 
