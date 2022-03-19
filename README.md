@@ -1,5 +1,5 @@
 # GeoinformaticsWorksheets
-Filledout geoinformatics worksheets / TU Berlin
+*Filledout geoinformatics worksheets / TU Berlin*
 
 Hey,
 
